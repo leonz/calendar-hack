@@ -49,6 +49,11 @@ export const plans: PlanSummary[] = [
     "Half Marathon",
   ],
   [
+    "pfitz_half_12_47_recovery",
+    "Faster Road Racing: Half Marathon Schedule 1, 31 to 47 miles per Week, Recovery",
+    "Half Marathon",
+  ],
+  [
     "pfitz_half_12_63",
     "Faster Road Racing: Half Marathon Schedule 2, 46 to 63 miles per Week",
     "Half Marathon",
